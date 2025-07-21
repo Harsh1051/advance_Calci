@@ -4,7 +4,7 @@ A beautifully designed, fully functional calculator application built using **Re
 
 # 🧮 React Glassmorphism Calculator
 
-![App Screenshot](public/screenshot.png)
+![App Screenshot](screenshot.png)
 
 
 ---
