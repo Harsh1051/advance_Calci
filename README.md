@@ -2,7 +2,10 @@
 
 A beautifully designed, fully functional calculator application built using **React** and styled with **modern glassmorphism effects**. This app performs basic arithmetic operations and delivers a smooth, interactive user experience with responsive design.
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](# 🧮 React Glassmorphism Calculator
+
+![App Screenshot](https://raw.githubusercontent.com/Harsh1051/advance_Calci/main/screenshot.png)
+)
 
 
 
