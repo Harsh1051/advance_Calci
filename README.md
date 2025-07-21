@@ -4,7 +4,7 @@ A beautifully designed, fully functional calculator application built using **Re
 
 ![App Screenshot](# 🧮 React Glassmorphism Calculator
 
-![App Screenshot](https://raw.githubusercontent.com/Harsh1051/advance_Calci/main/screenshot.png)
+![App Screenshot](output.png)
 )
 
 
