@@ -2,12 +2,12 @@
 
 A beautifully designed, fully functional calculator application built using **React** and styled with **modern glassmorphism effects**. This app performs basic arithmetic operations and delivers a smooth, interactive user experience with responsive design.
 
-![App Screenshot](# 🧮 React Glassmorphism Calculator
+______________________________________________________________________
 
 ![App Screenshot](output.png)
-)
 
 
+______________________________________________________________________
 
 ---
 
